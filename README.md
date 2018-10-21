@@ -1,5 +1,5 @@
 
-# Unit 12 | Assignment - Web Visualization Dashboard (Latitude)
+# Web Visualization Dashboard (Latitude)
 
 ## Background
 
